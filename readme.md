@@ -1,0 +1,1 @@
+# Ionic - Realtime com Firebase
